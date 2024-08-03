@@ -16,7 +16,7 @@ To use minbpe.rs, you need to have Rust installed on your system. You can instal
 `cargo run -- encode <input_file> <output_file>`
 `cargo run -- decode <input_file> <output_file>`
 
-# Library Integration
+## Library Integration
 Add minbpe to your Cargo.toml:
 
 [dependencies]
