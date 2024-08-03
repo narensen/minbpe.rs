@@ -8,8 +8,7 @@ To use minbpe.rs, you need to have Rust installed on your system. You can instal
 
 `git clone https://github.com/yourusername/minbpe.rs.git`
 `cd minbpe.rs`
-
-## Build the Project
+ Build the Project
 `cargo build --release`
 
 ## Library Integration
