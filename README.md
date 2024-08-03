@@ -38,4 +38,5 @@ fn main() {
 ```
 ## Acknowledgements:
 Inspired by minbpe by Andrej Karpathy.
+
 Inspired by bpe.c by ash-01xor.
