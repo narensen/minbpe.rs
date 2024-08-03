@@ -20,7 +20,7 @@ To use minbpe.rs, you need to have Rust installed on your system. You can instal
 Add minbpe to your Cargo.toml:
 
 ```[dependencies]
-minbpe = { git = "https://github.com/yourusername/minbpe.rs.git" }
+minbpe = { git = "https://github.com/narensen/minbpe.rs.git" }
 ```
 
 Use the library in your Rust code:
