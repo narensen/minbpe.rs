@@ -19,7 +19,8 @@ To use minbpe.rs, you need to have Rust installed on your system. You can instal
 ## Library Integration
 Add minbpe to your Cargo.toml:
 
-```[dependencies]
+```
+[dependencies]
 minbpe = { git = "https://github.com/narensen/minbpe.rs.git" }
 ```
 
