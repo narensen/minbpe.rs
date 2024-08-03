@@ -24,6 +24,7 @@ Add minbpe to your Cargo.toml:
 minbpe = { git = "https://github.com/yourusername/minbpe.rs.git" }
 
 Use the library in your Rust code:
+```
 extern crate minbpe;
 
 use minbpe::BPE;
@@ -34,7 +35,7 @@ fn main() {
     let encoded = bpe.encode("text to encode");
     println!("Encoded: {:?}", encoded);
 }
-
+```
 Acknowledgements
 Inspired by minbpe by Andrej Karpathy.
 Inspired by bpe.c by ash-01xor.
