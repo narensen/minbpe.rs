@@ -1,5 +1,5 @@
 # minbpe.rs
-minbpe.rs is a lightweight, minimal implementation of Byte Pair Encoding (BPE) in Rust. Inspired by [Andrej Karpathy's minbpe](https://github.com/karpathy/minbpe) and [ash-01xor's bpe.c](https://github.com/ash-01xor/bpe.c), this project aims to provide an efficient and easy-to-use BPE implementation for tokenization tasks in natural language processing.
+minbpe.rs is a lightweight, minimal implementation of Byte Pair Encoding (BPE) in Rust. Inspired by [Andrej Karpathy's minbpe](https://github.com/karpathy/minbpe), this project aims to provide an efficient and easy-to-use BPE implementation for tokenization tasks in natural language processing.
 
 ## Installation
 To use minbpe.rs, you need to have Rust installed on your system. You can install Rust from the official website.
