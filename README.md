@@ -6,7 +6,7 @@ To use minbpe.rs, you need to have Rust installed on your system. You can instal
 
 ## Clone the Repository
 
-`git clone https://github.com/yourusername/minbpe.rs.git`
+`git clone https://github.com/narensen/minbpe.rs.git`
 `cd minbpe.rs`
  Build the Project
 `cargo build --release`
