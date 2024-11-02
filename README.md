@@ -27,7 +27,7 @@ use minbpe::BPE;
 
 fn main() {
     let mut bpe = BPE::new();
-    bpe.train("path/to/textfile.txt");
+    bpe.train("path.txt");
     let encoded = bpe.encode("text to encode");
     println!("Encoded: {:?}", encoded);
 }
